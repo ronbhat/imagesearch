@@ -1,0 +1,5 @@
+.idea
+.venv
+test-data
+duplicates.json
+image_hashes.json
